@@ -1,0 +1,10 @@
+data
+logs
+*.sh
+**/__pycache__/
+*outputs
+.idea
+test.py
+*.log
+tools
+.gitignore
